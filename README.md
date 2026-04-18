@@ -7,7 +7,7 @@
 - 📫 **How to reach me:**  
    - 📧 [Email](mailto:srdesigner38@gmail.com)  
    - 📞 +8801835348332  
-   - 🌐 [Portfolio](https://shahadat.top)  
+   - 🌐 [Portfolio](https://ceo.sonicsoftora.com)  
 
 ---
 
