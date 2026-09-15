@@ -31,6 +31,180 @@ I Specialize in designing scalable AI-driven SaaS platforms, complex data archit
 
 ---
 
+## 🚀 Featured Projects
+
+> Building practical software solutions that solve real business problems — from
+> POS and e-commerce to billing automation and digital service platforms.
+
+<div align="center">
+
+**💻 SaaS & Business Software** &nbsp; • &nbsp;
+**🛒 E-commerce** &nbsp; • &nbsp;
+**📊 Management Systems** &nbsp; • &nbsp;
+**🌐 Digital Platforms**
+
+</div>
+
+<br>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🛒 SoniqMart POS</h3>
+
+<p>
+A complete <strong>POS & Business Management System</strong> designed for retail
+businesses to manage sales, purchases, inventory, customers, suppliers,
+invoices, reports, and daily operations from one platform.
+</p>
+
+<p align="center">
+  <img src="./assets/ssssssssss.png" width="100%" alt="SoniqMart POS Management System">
+</p>
+
+<p>
+<strong>Tech Stack:</strong><br>
+Laravel · PHP · MySQL · JavaScript
+</p>
+
+<p>
+🔗 <a href="https://pos.sonicsoftora.com">Live Demo</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>💼 BillTuli</h3>
+
+<p>
+A <strong>subscription and billing management platform</strong> built for
+businesses and service providers to manage recurring bills, customers,
+subscriptions, invoices, collections, and payments efficiently.
+</p>
+
+<p align="center">
+  <img src="./assets/billtuli.png" width="100%" alt="BillTuli Billing Management Platform">
+</p>
+
+<p>
+<strong>Tech Stack:</strong><br>
+Laravel · PHP · MySQL
+</p>
+
+<p>
+🔗 <a href="https://billtuli.com">Visit BillTuli</a>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🏪 DokaniFlo</h3>
+
+<p>
+A modern <strong>POS & Business Management System</strong> built to simplify
+shop operations with sales, purchases, inventory, customers, suppliers,
+invoices, reports, and business analytics.
+</p>
+
+<p align="center">
+  <img src="./assets/dokaniflo.png" width="100%" alt="DokaniFlo POS and Business Management System">
+</p>
+
+<p>
+<strong>Tech Stack:</strong><br>
+Laravel · PHP · MySQL · JavaScript
+</p>
+
+<p>
+🔗 <a href="https://dokaniflo.sonicsoftora.com">Visit DokaniFlo</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🛍️ ECOM2</h3>
+
+<p>
+A scalable <strong>E-commerce Platform</strong> designed to help businesses
+build, manage, and grow their online stores with product management,
+order management, customers, reports, and online sales.
+</p>
+
+<p align="center">
+  <img src="./assets/ecom.png" width="100%" alt="ECOM2 E-commerce Platform">
+</p>
+
+<p>
+<strong>Tech Stack:</strong><br>
+Laravel · PHP · MySQL · JavaScript
+</p>
+
+<p>
+🔗 <a href="https://ecom.sonicsoftora.com/two">Live Project</a>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🌐 ShadeenLife</h3>
+
+<p>
+An <strong>all-in-one digital services platform</strong> connecting users with
+digital services, earning opportunities, marketplaces, and other online
+solutions through a single ecosystem.
+</p>
+
+<p align="center">
+  <img src="./assets/shadeenlife.png" width="100%" alt="ShadeenLife Digital Services Platform">
+</p>
+
+<p>
+<strong>Tech Stack:</strong><br>
+Laravel · PHP · MySQL · JavaScript
+</p>
+
+<p>
+🔗 <a href="https://shadeenlife.com">Visit Website</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>💡 More Projects Coming Soon</h3>
+
+<p>
+Currently working on new SaaS products, business automation tools,
+AI-powered solutions, and scalable digital platforms.
+</p>
+
+<br>
+
+<p align="center">
+  🚀 <strong>Building. Scaling. Innovating.</strong>
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+---
 ### 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srshahadat&show_icons=true&theme=tokyonight)  
 
