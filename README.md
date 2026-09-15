@@ -5,7 +5,7 @@ I Specialize in designing scalable AI-driven SaaS platforms, complex data archit
 - 📫 **How to reach me:**  
    - 📧 [Email](mailto:dev.shahadat38@gmail.com)  
    - 📞 +8801835348332  
-   - 🔗 [Portfolio](https://ceo.sonicsoftora.com)  
+   - 🔗 [My Portfolio](https://ceo.sonicsoftora.com)  
    - 🌐 [Company Website](https://sonicsoftora.com)  
 
 ---
