@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Shahadat (@srshahadat)
+# 👋 Hi, I’m Shahadat Ullah (@srshahadat)
 
 \*\*Founder \& Principal Architect at SonicSoftora Limited.\*\*
 I Specialize in designing scalable AI-driven SaaS platforms, complex data architectures, and robust business logic. With expertise across the full stack -including Laravel and PHP- I focus on building high-impact digital solutions and scalable software infrastructure.
