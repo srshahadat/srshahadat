@@ -206,6 +206,11 @@ AI-powered solutions, and scalable digital platforms.
 
 ---
 
+### 📊 GitHub Stats:
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=srshahadat&theme=tokyonight)  
+
+
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -220,10 +225,6 @@ AI-powered solutions, and scalable digital platforms.
     width="49%"
   />
 </p>
-
-### 📊 GitHub Stats:
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=srshahadat&theme=tokyonight)  
 
 ---
 
