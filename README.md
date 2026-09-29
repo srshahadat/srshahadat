@@ -2,32 +2,83 @@
 
 \*\*Founder \& Principal Architect at SonicSoftora Limited.\*\*
 I Specialize in designing scalable AI-driven SaaS platforms, complex data architectures, and robust business logic. With expertise across the full stack -including Laravel and PHP- I focus on building high-impact digital solutions and scalable software infrastructure.
-- 📫 **How to reach me:**  
-   - 📧 [Email](mailto:dev.shahadat38@gmail.com)  
-   - 📞 +8801835348332  
-   - 🔗 [My Portfolio](https://ceo.sonicsoftora.com)  
-   - 🌐 [Company Website](https://sonicsoftora.com)  
+---
+
+## 📫 How to Reach Me
+
+<p align="center">
+
+<a href="mailto:dev.shahadat38@gmail.com">
+  <img src="https://img.shields.io/badge/Email-dev.shahadat38%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+<a href="https://wa.me/8801835348332">
+  <img src="https://img.shields.io/badge/WhatsApp-%2B880%201835--348332-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+</a>
+
+<a href="https://ceo.sonicsoftora.com">
+  <img src="https://img.shields.io/badge/Portfolio-ceo.sonicsoftora.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+</a>
+
+<a href="https://sonicsoftora.com">
+  <img src="https://img.shields.io/badge/SonicSoftora-sonicsoftora.com-6C63FF?style=for-the-badge&logo=globe&logoColor=white" alt="SonicSoftora">
+</a>
+
+</p>
 
 ---
 
-### 🌍 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/engineer-shahadat)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/developer.shahadat.sr)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/developer.shahadat.sr)  
+## 🌍 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/engineer-shahadat">
+  <img src="https://img.shields.io/badge/LinkedIn-Engineer%20Shahadat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://facebook.com/developer.shahadat.sr">
+  <img src="https://img.shields.io/badge/Facebook-Developer%20Shahadat-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+</a>
+
+<a href="https://twitter.com/developer.shahadat.sr">
+  <img src="https://img.shields.io/badge/X-Developer%20Shahadat-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter">
+</a>
+
+<a href="https://github.com/srshahadat">
+  <img src="https://img.shields.io/badge/GitHub-srshahadat-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+</p>
 
 ---
 
-### 🛠️ Skills & Tools:
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)  
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
+## 🛠️ Skills & Tools
+
+<div align="center">
+
+### 💻 Backend & Frameworks
+
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs" alt="Backend Technologies">
+
+<br><br>
+
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,tailwind" alt="Frontend Technologies">
+
+<br><br>
+
+### 🗄️ Database & DevOps
+
+<img src="https://skillicons.dev/icons?i=mysql,git,github,linux,apache" alt="Database and DevOps Technologies">
+
+<br><br>
+
+### 🧰 Development Tools
+
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma" alt="Development Tools">
+
+</div>
 
 ---
 
