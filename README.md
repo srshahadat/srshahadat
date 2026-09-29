@@ -205,10 +205,23 @@ AI-powered solutions, and scalable digital platforms.
 </table>
 
 ---
-### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srshahadat&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srshahadat&layout=compact&theme=tokyonight)
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    src="./profile/stats.svg"
+    alt="GitHub Stats"
+    width="49%"
+  />
+  <img
+    src="./profile/top-langs.svg"
+    alt="Top Languages"
+    width="49%"
+  />
+</p>
+
+### 📊 GitHub Stats:
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=srshahadat&theme=tokyonight)  
 
